@@ -7,6 +7,11 @@
 **ChessTract** was born out of a real, unfulfilled need in the chess app ecosystem. Existing tools were either purely engine-focused, designed only for online play, or too cumbersome for immediate post-game human analysis. I needed a tool to perform pure, "Botvinnik-style" analysis right after a tournament game while the memory is fresh—without engine interference—and instantly extract the PGN to share with club mates, build a personal database, or analyze further on Lichess/Chess.com. 
 
 What started as a fast PGN extraction tool has evolved into a comprehensive, Android-based chess study laboratory bridging the gap between physical chess books and digital analysis.
+<p align="center">
+  <a href="https://github.com/SENIN_KULLANICI_ADIN/ChessTract-Showcase/releases/latest">
+    <img src="https://img.shields.io/badge/📥_Download_Latest_APK-2EA043?style=for-the-badge&logo=android&logoColor=white" alt="Download APK"/>
+  </a>
+</p>
 
 ## ✨ The Origin & Core Philosophy
 * **Botvinnik-Style Post-Game Analysis:** Input your moves manually right after a game. Focus on human calculation and variation building without the immediate distraction of engine evaluations.
