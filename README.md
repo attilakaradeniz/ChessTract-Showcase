@@ -8,7 +8,7 @@
 
 What started as a fast PGN extraction tool has evolved into a comprehensive, Android-based chess study laboratory bridging the gap between physical chess books and digital analysis.
 <p align="center">
-  <a href="https://github.com/SENIN_KULLANICI_ADIN/ChessTract-Showcase/releases/latest">
+  <a href="https://github.com/attilakaradeniz/ChessTract-Showcase/releases/latest">
     <img src="https://img.shields.io/badge/📥_Download_Latest_APK-2EA043?style=for-the-badge&logo=android&logoColor=white" alt="Download APK"/>
   </a>
 </p>
