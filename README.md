@@ -65,4 +65,4 @@ Navigate variations seamlessly. The tree dynamically highlights your current tim
 
 ## 👨‍💻 About the Developer
 
-Developed by an active tournament player and app & Web developer with a passion for clean code architecture. Due to the proprietary nature of the custom OCR-to-PGN algorithmic parsers, this repository serves as a showcase. Bug reports, feature requests, and discussions are always welcome!
+Developed by an active tournament player and App & Web Developer with a passion for clean code architecture. Due to the proprietary nature of the custom OCR-to-PGN algorithmic parsers, this repository serves as a showcase. Bug reports, feature requests, and discussions are always welcome!
