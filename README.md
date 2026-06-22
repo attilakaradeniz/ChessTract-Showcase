@@ -4,7 +4,7 @@
   <img src="assets/logo_dark.png" alt="ChessTract Logo" width="450"/>
 </p>
 
-**ChessTract** was born out of a real, unfulfilled need in the chess app ecosystem. Existing tools were either purely engine-focused, designed only for online play, or too cumbersome for immediate post-game human analysis. I needed a tool to perform pure, "Botvinnik-style" analysis right after a tournament game while the memory is fresh—without engine interference—and instantly extract the PGN to share with club mates, build a personal database, or analyze further on Lichess/Chess.com. 
+**ChessTract** was born out of a real, unfulfilled need in the chess app ecosystem. Existing tools were either purely engine-focused, designed only for online play, or too cumbersome for immediate post-game human analysis. I needed a tool to perform pure, "Botvinnik-style" analysis right after a tournament game while the memory is fresh—without engine interference—and instantly extract the PGN to share with club mates, build a personal database, or analyze further on on various platforms. 
 
 What started as a fast PGN extraction tool has evolved into a comprehensive, Android-based chess study laboratory bridging the gap between physical chess books and digital analysis.
 <p align="center">
@@ -24,7 +24,7 @@ What started as a fast PGN extraction tool has evolved into a comprehensive, And
 * 🌳 **Advanced Tree & Variation UI:** Seamlessly explore complex opening theories or deep endgame variations with a robust, clickable, and highlighted PGN tree notation.
 * 🧩 **Board Setup & Diagram Mode:** Manually place pieces on the board to study specific endgame puzzles, verify OCR outputs, and extract instant FEN strings.
 * 🕰️ **Interactive Time Travel:** Jump effortlessly between moves and variations. The custom engine handles absolute pins, en passant, promotion traps, and castling rules dynamically with realistic sound cues.
-* 🎨 **Customizable Experience:** Switch between light/dark board themes and choose your preferred audio cues (including intense 'Karate' sound effects or standard 'Lichess' audio).
+* 🎨 **Customizable Experience:** Switch between light/dark board themes and choose your preferred audio cues (including intense 'Karate' sound effects or standard audio).
 * 🌓 **Dynamic UI:** A fully responsive Jetpack Compose interface that adapts beautifully to both system Dark and Light themes with dynamic neon typography.
 
 ## 🗺️ Roadmap & Future Plans
